@@ -1,0 +1,5 @@
+volumes/
+storybook/vue/node_modules
+storybook/vite-project/node_modules
+tailwind/node_modules
+tailwind/dist/
